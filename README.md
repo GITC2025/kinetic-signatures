@@ -158,7 +158,7 @@ Kacher et al., 2021 EI derived from Lee et al., 2010 instability index
 *   **No minimum threshold filtering needed for PacBio dataset (<10 nreads already filtered)**
 *   EI increases with increasing frequency of small expansions, and/or a few large expansions
 *   Create R function calculate\_EI\_weighted → output all calculations to csv
-
+` ` `
 calculate\_EI\_weighted <- cmpfun(function(data, indices) {
 
     resampled\_cag <- data$CAGLENGTH\[indices\]
@@ -186,8 +186,7 @@ calculate\_EI\_weighted <- cmpfun(function(data, indices) {
     return(ei)
 
 })
-
-  
+` ` `  
 
 **Low cell counts → inflates weightage of sampled long CAGLENGTHs → inflates actual EI!**
 
@@ -265,4 +264,5 @@ Just because there's strong CI convergence doesn't mean that it is clinically pr
   
 
 **References  
+
 **Handsaker, R. E., Kashin, S., Reed, N. M., Tan, S., Lee, W. S., McDonald, T. M., Morris, K., Kamitaki, N., Mullally, C. D., Morakabati, N. R., Goldman, M., Lind, G., Kohli, R., Lawton, E., Hogan, M., Ichihara, K., Berretta, S., & McCarroll, S. A. (2025). Long somatic DNA-repeat expansion drives neurodegeneration in Huntington's disease. _Cell_, _188_(3), 623–639.e19. [https://doi.org/10.1016/j.cell.2024.11.038](https://doi.org/10.1016/j.cell.2024.11.038 )
