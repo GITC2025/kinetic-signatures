@@ -3,6 +3,7 @@
 * Reanalysis of Handsaker et al., 2025 PacBio CCS dataset + adaptation of Kacher Expansion Index formula (2021)
 * Origins: Personal project to learn R studio for genomic analysis
 * Timeline of project: Dec 2025 to Jan 2026 (one month+)
+* Accepted for Women in Neuroscience Conference 2026, Queen's Uni, Kingston
 
 **TLDR Methodology**
 *   Reanalyse Handsaker et al., 2025 postmortem genomic dataset to quantify the differences in CAGLENGTH distribution between slow expanders (asymptomatic) vs fast expanders (symptomatic)
@@ -158,6 +159,7 @@ calculate_EI_weighted <- cmpfun(function(data, indices) {
 **References**
 
 Handsaker, R. E., Kashin, S., Reed, N. M., Tan, S., Lee, W. S., McDonald, T. M., Morris, K., Kamitaki, N., Mullally, C. D., Morakabati, N. R., Goldman, M., Lind, G., Kohli, R., Lawton, E., Hogan, M., Ichihara, K., Berretta, S., & McCarroll, S. A. (2025). Long somatic DNA-repeat expansion drives neurodegeneration in Huntington's disease. _Cell_, _188_(3), 623–639.e19. [https://doi.org/10.1016/j.cell.2024.11.038](https://doi.org/10.1016/j.cell.2024.11.038 )
+
 
 
 
