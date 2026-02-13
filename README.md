@@ -39,7 +39,7 @@ Timeline of project: Dec 2025 to Jan 2026 (one month+)
 *   Only analysed 6 affected in main paper as the other 2 were asymptomatic at point of death
 *   Missed opportunity to analyse the expansion index of slow expanders to compare with faster expanders
 *   
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEj_rpKe0C7jOfTHpo0KWr8I70o6x1UpZ9yDL32L-YU7RnmEz1awZbFrmEX5ZHYNrBiGZ_3Ztz85erdiWW1yCHfkZpd4yevWgEX3UFEkqg-BU6bIzkv7VtW6Rgz9n9_0ivaSyczMb2dmjM2jTn2-FgHB8vJPnzC-1Yb_A_O3XWbnyV6iykgtJePWcla407Xn" width="600">
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEj_rpKe0C7jOfTHpo0KWr8I70o6x1UpZ9yDL32L-YU7RnmEz1awZbFrmEX5ZHYNrBiGZ_3Ztz85erdiWW1yCHfkZpd4yevWgEX3UFEkqg-BU6bIzkv7VtW6Rgz9n9_0ivaSyczMb2dmjM2jTn2-FgHB8vJPnzC-1Yb_A_O3XWbnyV6iykgtJePWcla407Xn" width="500">
 
 **QC before renalysis**
 *   pacbio\_deepdives\_cells\_unfiltered : contains CAGLENGTH data for 9 donors
@@ -74,7 +74,7 @@ Timeline of project: Dec 2025 to Jan 2026 (one month+)
 **
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEiKMLXgOI5GR3cmnLxN_KlrN5E7vWk3L7D1TAk3-kScysM5i7kjaOY6D9J6FS1l34dtXqfMwTDTcPXgfjnKsn1puADuIVxPDzevslLInmEGrCXgtydO7Ksm9CpA_34sYUQs44Q9d4z6g7EBXpVJmLYALyhQCvf1_oOO3GrzUQXRUTmWtl3TV5ldaZ_0G6M3=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEiKMLXgOI5GR3cmnLxN_KlrN5E7vWk3L7D1TAk3-kScysM5i7kjaOY6D9J6FS1l34dtXqfMwTDTcPXgfjnKsn1puADuIVxPDzevslLInmEGrCXgtydO7Ksm9CpA_34sYUQs44Q9d4z6g7EBXpVJmLYALyhQCvf1_oOO3GrzUQXRUTmWtl3TV5ldaZ_0G6M3)
 
-****Find correlations**
+**Find correlations**
 **
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEg7KKaOIlCl0NzE7RrKOAU6dSNLnd7W_LZM2ZjgH2QbM47fECdfCon8lLTCEPZ4wuEUciIZ4G0gNg-nWdEwdCPzKIEdnsvi6Y36jMt02Lg66ArkpE7rHZk4vBCsKH-JDmou9QSMdrG2RCuTgjWjh4SF3zPNaqFjRJ8axBEspslkMdMsCHQ_AxPnB86t0hSI=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEg7KKaOIlCl0NzE7RrKOAU6dSNLnd7W_LZM2ZjgH2QbM47fECdfCon8lLTCEPZ4wuEUciIZ4G0gNg-nWdEwdCPzKIEdnsvi6Y36jMt02Lg66ArkpE7rHZk4vBCsKH-JDmou9QSMdrG2RCuTgjWjh4SF3zPNaqFjRJ8axBEspslkMdMsCHQ_AxPnB86t0hSI)  
 
@@ -82,49 +82,45 @@ Timeline of project: Dec 2025 to Jan 2026 (one month+)
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEiOgFbngaBEVG9bSpycj4rzPWSyUjo0LNI8LuyjABBWNf47yczhlZQG7wu_AsAnXBWtbNz98hQqcj3EgZo7_JE6AMhiJ1XuBa9ghy_X5aK3E3X7GIFuMsXhJhcseEBwTsjkgMbeuoeaRcGBwnQl-58lLtzyieUWpaEN9HL8NgBw2DziJCkoD-jOrjUt1lVE=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEiOgFbngaBEVG9bSpycj4rzPWSyUjo0LNI8LuyjABBWNf47yczhlZQG7wu_AsAnXBWtbNz98hQqcj3EgZo7_JE6AMhiJ1XuBa9ghy_X5aK3E3X7GIFuMsXhJhcseEBwTsjkgMbeuoeaRcGBwnQl-58lLtzyieUWpaEN9HL8NgBw2DziJCkoD-jOrjUt1lVE)
   
-****Adapt Kacher EI index to CAGLENGTH distribution per donor**
+**Adapt Kacher EI index to CAGLENGTH distribution per donor**
 Kacher et al., 2021 EI derived from Lee et al., 2010 instability index  
 
 **EI = Sum of (frequency x distance from inherited HTTCAG) for all CAG lengths**
 
-[![](https://blogger.googleusercontent.com/img/a/AVvXsEhXMx0TYYSgjme8ShUyg8rzF6_eWApwRCRr5mwQUyrLHyI7p-tMgb4lz1puSUOB9Brx4jkxgl2lYvc9wG_HfXkGUsnGkCykqx2vv_kj22cHpL78RE1ppRRAIrUxc6ATaWVnrlJJIlUFwSzywk3vwEncHC2hxzYqE5bVRcYFJzho1jALaJjkdhf7pIjezGam)](https://blogger.googleusercontent.com/img/a/AVvXsEhXMx0TYYSgjme8ShUyg8rzF6_eWApwRCRr5mwQUyrLHyI7p-tMgb4lz1puSUOB9Brx4jkxgl2lYvc9wG_HfXkGUsnGkCykqx2vv_kj22cHpL78RE1ppRRAIrUxc6ATaWVnrlJJIlUFwSzywk3vwEncHC2hxzYqE5bVRcYFJzho1jALaJjkdhf7pIjezGam)
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEhXMx0TYYSgjme8ShUyg8rzF6_eWApwRCRr5mwQUyrLHyI7p-tMgb4lz1puSUOB9Brx4jkxgl2lYvc9wG_HfXkGUsnGkCykqx2vv_kj22cHpL78RE1ppRRAIrUxc6ATaWVnrlJJIlUFwSzywk3vwEncHC2hxzYqE5bVRcYFJzho1jALaJjkdhf7pIjezGam)
 
-[![](https://blogger.googleusercontent.com/img/a/AVvXsEi3E7nGkM5ARd_N7_Q-El8wNl8vPjhRjOoI1ZY-5_vx4svOXcS-pu_CvtQNdCimRJe_nE-Kr6CKh985WqB9iFDPgDmS7h_agH5AxKyO8n63lzvS7TaPsG6II6pQpUJAt9IncK2hrD3TmLZ_XXHtjnhW6E9RmmesvELg9OrW73FPxNc5q0xba9DKuiX6bu7I=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEi3E7nGkM5ARd_N7_Q-El8wNl8vPjhRjOoI1ZY-5_vx4svOXcS-pu_CvtQNdCimRJe_nE-Kr6CKh985WqB9iFDPgDmS7h_agH5AxKyO8n63lzvS7TaPsG6II6pQpUJAt9IncK2hrD3TmLZ_XXHtjnhW6E9RmmesvELg9OrW73FPxNc5q0xba9DKuiX6bu7I)
 
-  
-
-*   Original Lee et al, 2010: fluorescence signal lower accuracy than digital counts
-*    filter by 20% threshold
-*   **No minimum threshold filtering needed for PacBio dataset (<10 nreads already filtered)**
-*   EI increases with increasing frequency of small expansions, and/or a few large expansions
-*   Create R function calculate\_EI\_weighted → output all calculations to csv
+* Original Lee et al, 2010: fluorescence signal lower accuracy than digital counts
+* filter by 20% threshold
+* **No minimum threshold filtering needed for PacBio dataset (<10 nreads already filtered)**
+* EI increases with increasing frequency of small expansions, and/or a few large expansions
+* Create R function calculate\_EI\_weighted → output all calculations to csv
 
 ```r
-# Function to calculate the Expansion Index (EI) via bootstrap resampling
-# Adapted from Kacher et al. (2021) and Lee et al. (2010)
 calculate_EI_weighted <- cmpfun(function(data, indices) {
-    # Resample the CAG lengths based on bootstrap indices
     resampled_cag <- data$CAGLENGTH[indices]
-    
-    # Identify the inherited (pathogenic) CAG length for this donor
     inherited <- data$HTTCAG[1]
     
-    # Efficient calculation of EI:
-    # 1. Calculate distance from inherited for every read (min 0)
-    # 2. EI is the mean of these distances
-    distances <- pmax(0, resampled_cag - inherited)
-    ei <- mean(distances)
+    unique_cags <- unique(resampled_cag)
+    ei <- 0
+    total_n <- length(resampled_cag)
+    
+    for (cag in unique_cags) {
+        count <- sum(resampled_cag == cag)
+        frequency <- count / total_n
+        distance <- pmax(0, cag - inherited)
+        ei <- ei + (frequency * distance)
+    }
     
     return(ei)
 })
 ```
 
 **Low cell counts → inflates weightage of sampled long CAGLENGTHs → inflates actual EI!**
-**
-[![](https://blogger.googleusercontent.com/img/a/AVvXsEi5AmDRItUxFOUFSfHTwZNqxIA6y-F0LkpMSmgMZph4sfa_-St01Q-dGetAB0m_bRDGPp6IRm2ird1WWDddmVjvpdjct3kbHAKMK_0BjQZS_FNUeLnBmP21kVUdFFatWjCVjHDIdjipTGasMKcUb7mzWS0G3s-WcVZh4HoaSlrjSo6N9PL_D_dcz1NH6zY1=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEi5AmDRItUxFOUFSfHTwZNqxIA6y-F0LkpMSmgMZph4sfa_-St01Q-dGetAB0m_bRDGPp6IRm2ird1WWDddmVjvpdjct3kbHAKMK_0BjQZS_FNUeLnBmP21kVUdFFatWjCVjHDIdjipTGasMKcUb7mzWS0G3s-WcVZh4HoaSlrjSo6N9PL_D_dcz1NH6zY1)
 
+![](https://blogger.googleusercontent.com/img/a/AVvXsEi5AmDRItUxFOUFSfHTwZNqxIA6y-F0LkpMSmgMZph4sfa_-St01Q-dGetAB0m_bRDGPp6IRm2ird1WWDddmVjvpdjct3kbHAKMK_0BjQZS_FNUeLnBmP21kVUdFFatWjCVjHDIdjipTGasMKcUb7mzWS0G3s-WcVZh4HoaSlrjSo6N9PL_D_dcz1NH6zY1=s16000)
   
-****How do we accurately quantify this range of EI uncertainty for each donor?**
+**How do we accurately quantify this range of EI uncertainty for each donor?**
 **We need to bootstrap for an EI range!** 
 **First let's find out if there's any undersampling of CAGLENGTH after accounting for known factors!**   
 
@@ -135,26 +131,20 @@ calculate_EI_weighted <- cmpfun(function(data, indices) {
 *   **But some correlation of total reads with 1. range and 2. continuity of data (mean gap)**
 *   Sufficient CAGLENGTH sampling would close the mean gap towards 1, assuming continuous CAGLENGTH distribution in each donor! 
 
-**
-[![](https://blogger.googleusercontent.com/img/a/AVvXsEhZ5I574NVv0Yo3GTwujlFlYbsCJs4XNnnkeJLpw866ER8JNMPEbomhF_XCKqfPDFlnVtVQ-ddETPfdRtwX7-OlhK2rrQq5LVAO7pVtIu8n4agdqN53dZCIe4wzErhS2OLggqQC3ja2OSoshJBEpT176Am32cH7dOhLT9Xp952-MULGTXdpPoXueLh41VM7=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEhZ5I574NVv0Yo3GTwujlFlYbsCJs4XNnnkeJLpw866ER8JNMPEbomhF_XCKqfPDFlnVtVQ-ddETPfdRtwX7-OlhK2rrQq5LVAO7pVtIu8n4agdqN53dZCIe4wzErhS2OLggqQC3ja2OSoshJBEpT176Am32cH7dOhLT9Xp952-MULGTXdpPoXueLh41VM7)
+[![Sampling Evidence](https://blogger.googleusercontent.com/img/a/AVvXsEhZ5I574NVv0Yo3GTwujlFlYbsCJs4XNnnkeJLpw866ER8JNMPEbomhF_XCKqfPDFlnVtVQ-ddETPfdRtwX7-OlhK2rrQq5LVAO7pVtIu8n4agdqN53dZCIe4wzErhS2OLggqQC3ja2OSoshJBEpT176Am32cH7dOhLT9Xp952-MULGTXdpPoXueLh41VM7=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEhZ5I574NVv0Yo3GTwujlFlYbsCJs4XNnnkeJLpw866ER8JNMPEbomhF_XCKqfPDFlnVtVQ-ddETPfdRtwX7-OlhK2rrQq5LVAO7pVtIu8n4agdqN53dZCIe4wzErhS2OLggqQC3ja2OSoshJBEpT176Am32cH7dOhLT9Xp952-MULGTXdpPoXueLh41VM7=s16000)
 
-**
 **How to bootstrap**
-**
-[![](https://blogger.googleusercontent.com/img/a/AVvXsEjyCznKY0LSPgxNxT2YfohxXXWwbuaqdTFuziSsNGVWNnDI0arqYyGj-zWqNPCnENifSxnu2RKTbX9wR5RQyJhsTh74towrYyfRtxC04ti2vfoLGxYfQfs9aNvH__hnUFEU9UiO0ZkzKQntn2hZM7BJ9-CqTOlIocmvmthxJ0D0TdlrGe7z3GLqmQjoa7Ta)](https://blogger.googleusercontent.com/img/a/AVvXsEjyCznKY0LSPgxNxT2YfohxXXWwbuaqdTFuziSsNGVWNnDI0arqYyGj-zWqNPCnENifSxnu2RKTbX9wR5RQyJhsTh74towrYyfRtxC04ti2vfoLGxYfQfs9aNvH__hnUFEU9UiO0ZkzKQntn2hZM7BJ9-CqTOlIocmvmthxJ0D0TdlrGe7z3GLqmQjoa7Ta)
+[![Bootstrapping Convergence](https://blogger.googleusercontent.com/img/a/AVvXsEjyCznKY0LSPgxNxT2YfohxXXWwbuaqdTFuziSsNGVWNnDI0arqYyGj-zWqNPCnENifSxnu2RKTbX9wR5RQyJhsTh74towrYyfRtxC04ti2vfoLGxYfQfs9aNvH__hnUFEU9UiO0ZkzKQntn2hZM7BJ9-CqTOlIocmvmthxJ0D0TdlrGe7z3GLqmQjoa7Ta)](https://blogger.googleusercontent.com/img/a/AVvXsEjyCznKY0LSPgxNxT2YfohxXXWwbuaqdTFuziSsNGVWNnDI0arqYyGj-zWqNPCnENifSxnu2RKTbX9wR5RQyJhsTh74towrYyfRtxC04ti2vfoLGxYfQfs9aNvH__hnUFEU9UiO0ZkzKQntn2hZM7BJ9-CqTOlIocmvmthxJ0D0TdlrGe7z3GLqmQjoa7Ta)
 
-[![](https://blogger.googleusercontent.com/img/a/AVvXsEhjQAH8fFk4CEfVSkofk0DgU-vT2Nbbyw-gQkGiIpqoqvoN6wDqYKeyhT9mNy2CjTYd0fsiwDWR-o4fcCI6EFev1K5TP2vQjJYYb6dkwqQKfBQRTQVkdSehx5EskDtTaf6jyGoatHLU9N9YH39K7Le625ZkvAIwyrz8op3WVsl-0VS7Ps8Gf6BXgHuncxE9=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEhjQAH8fFk4CEfVSkofk0DgU-vT2Nbbyw-gQkGiIpqoqvoN6wDqYKeyhT9mNy2CjTYd0fsiwDWR-o4fcCI6EFev1K5TP2vQjJYYb6dkwqQKfBQRTQVkdSehx5EskDtTaf6jyGoatHLU9N9YH39K7Le625ZkvAIwyrz8op3WVsl-0VS7Ps8Gf6BXgHuncxE9)
-
-**
 **Let's do B=1K and B=10K first with 8 threads!**
-**
+
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEh5TbUWfm2KNOdKQZr_5O4dnsDqsxrUYz78MRb6oF2nL7kvSIMa5yIdqHxO69578AJnVB7axGsTnZHClyIf7XNwOlY73QjVkDh3QWe5wS71HTohjJ2RNsRfsvcBfiD3Gemw8SYDutPhsffpLwA74Mr8DLqyR5ijSm0XuChjrBHAynvWoix3MOgqH2N7HIBe=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEh5TbUWfm2KNOdKQZr_5O4dnsDqsxrUYz78MRb6oF2nL7kvSIMa5yIdqHxO69578AJnVB7axGsTnZHClyIf7XNwOlY73QjVkDh3QWe5wS71HTohjJ2RNsRfsvcBfiD3Gemw8SYDutPhsffpLwA74Mr8DLqyR5ijSm0XuChjrBHAynvWoix3MOgqH2N7HIBe)
-**
+
 **Fantastic CI convergence! Let's see if we can get away with lower B for computational efficiency! And also check convergence of random variability for twin runs within each B value.** 
 
 **[![](https://blogger.googleusercontent.com/img/a/AVvXsEiBRIUtHYL_e6BgbYPvhRsDsglYs6IRfdCY1W2DwC95svLTC7GH8YV97gxFrncDWXgmYeUKzHuA5U8x1H1olYm3gG2O6tJmS-U1m1oTZ4EF09uMs0Y_wVXxriCNjagA7iWPQzh7HFSkQNpyFqxMdLfyD1cSg3LmZxWkTOiPwzY-hfPdKiRhf9e9jR_Gw8_1=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEiBRIUtHYL_e6BgbYPvhRsDsglYs6IRfdCY1W2DwC95svLTC7GH8YV97gxFrncDWXgmYeUKzHuA5U8x1H1olYm3gG2O6tJmS-U1m1oTZ4EF09uMs0Y_wVXxriCNjagA7iWPQzh7HFSkQNpyFqxMdLfyD1cSg3LmZxWkTOiPwzY-hfPdKiRhf9e9jR_Gw8_1)
 
-B=1K is the minimum we have to aim for.** 
+**B=1K is the minimum we have to aim for.**
 MAD is a non standard measure we're just trying out here for clinical translation purposes. 
 Just because there's strong CI convergence doesn't mean that it is clinically precise enough.   
 
@@ -163,10 +153,12 @@ Just because there's strong CI convergence doesn't mean that it is clinically pr
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEhNdirOLxzGxcdo_dqNaFg4MyFRtolWmHfqkZp-vcD5Z1YDdXo22fI3D0EweI6Ie6_TZ6t67RVNuohudjctXI464fZnixFVvBgLTeFYEfUH0i37txA4GzROUFitcqLV8WIxzUNCOtUrEySkkRAqoriNz4mbbNg-1NETw7ZFV3vEnAKHzWRxc30B-_5gnUuT=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEhNdirOLxzGxcdo_dqNaFg4MyFRtolWmHfqkZp-vcD5Z1YDdXo22fI3D0EweI6Ie6_TZ6t67RVNuohudjctXI464fZnixFVvBgLTeFYEfUH0i37txA4GzROUFitcqLV8WIxzUNCOtUrEySkkRAqoriNz4mbbNg-1NETw7ZFV3vEnAKHzWRxc30B-_5gnUuT)  
 
 **Generate heatmap of EI range vs inherited CAG, age, disease stage** (in progress)
+
   
 
-**References  
+**References**
 
-**Handsaker, R. E., Kashin, S., Reed, N. M., Tan, S., Lee, W. S., McDonald, T. M., Morris, K., Kamitaki, N., Mullally, C. D., Morakabati, N. R., Goldman, M., Lind, G., Kohli, R., Lawton, E., Hogan, M., Ichihara, K., Berretta, S., & McCarroll, S. A. (2025). Long somatic DNA-repeat expansion drives neurodegeneration in Huntington's disease. _Cell_, _188_(3), 623–639.e19. [https://doi.org/10.1016/j.cell.2024.11.038](https://doi.org/10.1016/j.cell.2024.11.038 )
+Handsaker, R. E., Kashin, S., Reed, N. M., Tan, S., Lee, W. S., McDonald, T. M., Morris, K., Kamitaki, N., Mullally, C. D., Morakabati, N. R., Goldman, M., Lind, G., Kohli, R., Lawton, E., Hogan, M., Ichihara, K., Berretta, S., & McCarroll, S. A. (2025). Long somatic DNA-repeat expansion drives neurodegeneration in Huntington's disease. _Cell_, _188_(3), 623–639.e19. [https://doi.org/10.1016/j.cell.2024.11.038](https://doi.org/10.1016/j.cell.2024.11.038 )
+
 
 
