@@ -373,7 +373,8 @@ Time difference of 3.112793 mins
 *  but we can see between random seeds the values are quite close, we'll validate twin runs within B values later.
 
 ```r
-# run bca bootstrap with optimised EI formula
+# run bca bootstrap with optimised EI formula instead
+# halves the computation time
 Starting Bootstrap (B=10,000)... 
 
 > run_donor_bootstrap_simplified(df_30dec_clean)
@@ -421,6 +422,7 @@ Time difference of 1.438339 mins
 
 **References**
 Handsaker, R. E., Kashin, S., Reed, N. M., Tan, S., Lee, W. S., McDonald, T. M., Morris, K., Kamitaki, N., Mullally, C. D., Morakabati, N. R., Goldman, M., Lind, G., Kohli, R., Lawton, E., Hogan, M., Ichihara, K., Berretta, S., & McCarroll, S. A. (2025). Long somatic DNA-repeat expansion drives neurodegeneration in Huntington's disease. _Cell_, _188_(3), 623–639.e19. [https://doi.org/10.1016/j.cell.2024.11.038](https://doi.org/10.1016/j.cell.2024.11.038 )
+
 
 
 
