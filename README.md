@@ -134,15 +134,20 @@ calculate_baseline_EI <- cmpfun(function(data) {
 baseline_results <- lapply(split(df_30dec_clean, df_30dec_clean$DONOR), calculate_baseline_EI)
 ```
 
+## EI formula simplification for efficiency
+* original kacher EI formula is biologically intuitive but inefficient 
+* summing all frequencies require lots of division
+* division is computationally expensive
+* simplify formula to weighted mean formula - only one big division at the end
+* for large datasets and many iterations should improve efficiency decently
+  
 ```r
-# can also be simplified like this
-# original kacher EI formula
+# original kacher EI formula 
 df$frequency <- df$count / sum(df$count) 
 EI <- sum(df$frequency * df$distance)
 
 # optimised weighted mean formula w/o intermediate division steps, yields same results
-# saves a lot of time for large datasets and iterations
-# [sum of count x distance] / total reads
+# sum of [count x distance] / total reads
 EI <- sum(df$count * df$distance) / sum(df$count)
 ```
 
